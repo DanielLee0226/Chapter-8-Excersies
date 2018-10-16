@@ -5,7 +5,11 @@ Name: Daniel Lee
 ---
 
 ### Problem 8.1
-1) 
+1) b
+2) a, c, g, h
+3) e
+4) f, i 
+5) d
 
 
 ### Problem 8.2
